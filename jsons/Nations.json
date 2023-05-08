@@ -18,7 +18,7 @@
 		"outerColor": [255,255,255],
 		"innerColor": [255,0,0],
 		"uniqueName": "Lineage Of Shrine Maidens",
-		"uniques": ["Receive a free Great Person at the end of (every 900 years)"],
+		"uniques": ["Receive a free Great Person at the end of every 900 years"], "\"Borrows\" city names from other civilizations in the game"],
 		"cities": ["Hakurei Shrine"]
 	}
 ]
