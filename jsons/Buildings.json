@@ -1,1 +1,21 @@
-
+[
+	{
+		"name": "Rituals",
+		"replaces": "Monument",
+		"uniqueTo": "Hakurei Shrine",
+		"culture": 4,
+		"cost": 40,
+		"hurryCostModifier": 40,
+		"maintenance": 0,
+	},
+		
+	{
+		"name": "Shinto Shrine", 
+		"replaces": "Shrine",
+		"uniqueTo": "Hakurei Shrine",
+		"faith": 4,
+		"cost": 40,
+		"maintenance": 1,
+		"requiredTech": "Pottery",
+	}
+]
