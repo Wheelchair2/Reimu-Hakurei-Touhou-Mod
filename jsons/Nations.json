@@ -6,8 +6,8 @@
 		"startBias": ["Hill"],
 		"preferredVictoryType": "Cultural",
 
-		"startIntroPart1": "I am the shrine maiden of the Hakurei Shrine, Reimu Hakurei.",
-		"startIntroPart2": "This mod is still experimental. Enjoy.",
+		"startIntroPart1": "I am the shrine maiden of the Hakurei Shrine, Reimu Hakurei. Do you want some tea?",
+		"startIntroPart2": "You happened to be the incarnation of the Hakurei God. Your shrine maiden, Reimu Hakurei, will serve you in your youkai-extermination from now on.",
 		"declaringWar": "You're a youkai, aren't you? Prepare to be exterminated!",
 		"attacked": "Hey, at least take off your shoes before you step on the shrine!",
 		"defeated": "Alright, I lose.",
