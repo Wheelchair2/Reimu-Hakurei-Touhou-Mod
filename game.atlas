@@ -22,5 +22,5 @@ NationIcons/Rituals
   xy: 200, 0
   size: 100, 100
   orig: 100, 100
-  offset: 0, 0
+  offset: 100, 100
   index: -1
