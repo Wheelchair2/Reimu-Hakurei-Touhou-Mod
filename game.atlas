@@ -38,7 +38,7 @@ UnitIcons/Komainu Guardian
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitPromotionIcons/Komainu Guardian
+UnitPromotionIcons/Komainu
   rotate: false
   xy: 100, 0
   size: 100, 100
