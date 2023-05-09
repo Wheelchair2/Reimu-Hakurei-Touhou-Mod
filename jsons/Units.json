@@ -9,6 +9,6 @@
 		"cost": 40,
 		"obsoleteTech": "Iron Working",
 		"unique": "[Komainu Ability]"
-		"upgradesTo": "Swordsman",
-	},
+		"upgradesTo": "Swordsman"
+	}
 ]
