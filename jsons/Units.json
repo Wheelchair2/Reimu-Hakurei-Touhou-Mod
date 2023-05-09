@@ -8,7 +8,7 @@
 		"strength": 8,
 		"cost": 40,
 		"obsoleteTech": "Iron Working",
-		"promotions": ["[Shrine Guardian] ability"]
+		"promotions": ["[Komainu] ability"]
 		"upgradesTo": "Swordsman"
 	}
 ]
