@@ -4,7 +4,7 @@
 		"replaces": "Monument",
 		"uniqueTo": "Hakurei Shrine",
 		"culture": 4,
-		"cost": 40,
+		"cost": 30,
 		"hurryCostModifier": 40,
 		"maintenance": 0,
 	},
