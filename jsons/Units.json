@@ -8,7 +8,7 @@
 		"strength": 8,
 		"cost": 40,
 		"obsoleteTech": "Iron Working",
-		"unique": "[Komainu Ability]"
+		"promotions": "[Komainu Ability]"
 		"upgradesTo": "Swordsman"
 	}
 ]
