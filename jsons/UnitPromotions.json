@@ -1,6 +1,6 @@
 [	
 	{
-		"name": "Shrine Guardian", //Only for Komainu Guardian and subsequent upgrades
-		"uniques": ["[+50]% Strength <when defending>","[-50]% Strength <when attacking>"]
+		"name": "[Komainu] ability", //Only for Komainu Guardian and subsequent upgrades
+		"uniques": ["[+20]% Strength <when fighting in [Friendly Land] tiles>"]
 	}
 ]
