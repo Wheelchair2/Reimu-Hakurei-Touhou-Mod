@@ -8,7 +8,6 @@
 		"strength": 8,
 		"cost": 40,
 		"obsoleteTech": "Iron Working",
-		"promotions": ["[Komainu] ability"]
-		"upgradesTo": "Swordsman"
+		"promotions": "[+50]% Strength <in [Friendly Land] tiles>"
 	}
 ]
