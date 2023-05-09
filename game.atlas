@@ -18,7 +18,7 @@ BuildingIcons/Traditional Rituals
   orig: 100, 100
   offset: 100, 100
   index: -1
-BuildingIcons2/Shinto Shrine
+BuildingIcons/Shinto Shrine
   rotate: false
   xy: 100, 0
   size: 100, 100
