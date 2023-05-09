@@ -1,6 +1,6 @@
 [	
 	{
-		"name": "Shrine Guardian",
+		"name": "Shrine Guardian", //Only for Komainu Guardian and subsequent upgrades
 		"uniques": ["[+50]% Strength <when defending>","[-50]% Strength <when attacking>"]
 	}
 ]
