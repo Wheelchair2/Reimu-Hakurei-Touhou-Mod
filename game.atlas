@@ -40,7 +40,7 @@ UnitIcons/Komainu Guardian
   index: -1
 
 game3.png
-size: 200,200
+size: 132,100
 format: RGBA8888
 filter: MipMapLinearLinear,MipMapLinearLinear
 repeat: none
@@ -49,5 +49,5 @@ UnitPromotionIcons/Komainu
   xy: 0, 0
   size: 100, 100
   orig: 100, 100
-  offset: 0, 0
+  offset: 100, 100
   index: -1
