@@ -40,7 +40,7 @@ UnitIcons/Komainu Guardian
   index: -1
 
 game3.png
-size: 132,100
+size: 100,100
 format: RGBA8888
 filter: MipMapLinearLinear,MipMapLinearLinear
 repeat: none
