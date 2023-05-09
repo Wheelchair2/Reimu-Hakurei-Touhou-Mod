@@ -1,2 +1,2 @@
-'game.atlas' by Angelonius
+Thanks to Angelonious for his 'game.atlas'
 Here's his github: https://github.com/Wheelchair2/Reimu-Hakurei-Touhou-Mod/tree/main
