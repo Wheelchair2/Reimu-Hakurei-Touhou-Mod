@@ -27,7 +27,7 @@ BuildingIcons/Rituals
   index: -1
 
 game2.png
-size: 132,100
+size: 232,100
 format: RGBA8888
 filter: MipMapLinearLinear,MipMapLinearLinear
 repeat: none
@@ -37,4 +37,11 @@ UnitIcons/Komainu Guardian
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
+  index: -1
+UnitPromotionIcons/Komainu Guardian
+  rotate: false
+  xy: 100, 0
+  size: 100, 100
+  orig: 100, 100
+  offset: 100, 100
   index: -1
