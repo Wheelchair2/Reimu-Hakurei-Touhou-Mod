@@ -27,7 +27,7 @@ size: 100,100
 format: RGBA8888
 filter: MipMapLinearLinear,MipMapLinearLinear
 repeat: none
-NationIcons/Rituals
+BuildingIcons/Rituals
   rotate: false
   xy: 0, 0
   size: 100, 100
