@@ -1,2 +1,2 @@
 # Reimu-Hakurei-Touhou-Mod
-This is still experimental, so I accept any kinds of suggestions for our miko, Reimu.
+A Touhou Project mod for our ~~lazy~~ shrine maiden, Reimu Hakurei. I accept any kinds of suggestions so that we can renovate her shrine! I wish you enjoy the mod.
