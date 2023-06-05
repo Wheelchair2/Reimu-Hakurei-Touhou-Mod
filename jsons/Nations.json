@@ -18,7 +18,7 @@
 		"outerColor": [255,255,255],
 		"innerColor": [255,0,0],
 		"uniqueName": "Lineage Of Shrine Maidens",
-		"uniques": ["[+40]% great person generation in all cities", "[+1 Happiness] [in capital] <upon entering the [Ancient era]>", "[+2 Happiness] [in capital] <upon entering the [Classical era]>", "[+1 Happiness] [in capital] <upon entering the [Medieval era]>", "[+1 Happiness] [in capital] <upon entering the [Renaissance era]>", "[+2 Happiness] [in capital] <upon entering the [Industrial era]>", "[+1 Happiness] [in capital] <upon entering the [Modern era]>", "[+1 Happiness] [in capital] <upon entering the [Atomic era]>", "[+2 Happiness] [in capital] <upon entering the [Information era]>", "[+1 Happiness] [in capital] <upon entering the [Future era]>"]
+		"uniques": ["[+55]% great person generation in all cities", "[+1 Happiness] [in capital] <upon entering the [Ancient era]>", "[+2 Happiness] [in capital] <upon entering the [Classical era]>", "[+1 Happiness] [in capital] <upon entering the [Medieval era]>", "[+1 Happiness] [in capital] <upon entering the [Renaissance era]>", "[+2 Happiness] [in capital] <upon entering the [Industrial era]>", "[+1 Happiness] [in capital] <upon entering the [Modern era]>", "[+1 Happiness] [in capital] <upon entering the [Atomic era]>", "[+2 Happiness] [in capital] <upon entering the [Information era]>", "[+1 Happiness] [in capital] <upon entering the [Future era]>"]
 		"cities": ["Hakurei Shrine"]
 	}
 ]
