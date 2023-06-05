@@ -18,7 +18,7 @@
 		"outerColor": [255,255,255],
 		"innerColor": [255,0,0],
 		"uniqueName": "Lineage Of Shrine Maidens",
-		"uniques": ["[+40]% great person generation in all cities", "Receive a free Great Person at the end of every [Shrine Maiden Generation] (every 394 years), after researching [Calendar]. Each bonus person can only be chosen once.", "\"Borrows\" city names from other civilizations in the game"]
+		"uniques": ["[+40]% great person generation in all cities", "[+1 Happiness] [in capital] <upon entering the [Ancient era]>", "[+1 Happiness] [in capital] <upon entering the [Classical era]>", "[+1 Happiness] [in capital] <upon entering the [Medieval era]>", "[+1 Happiness] [in capital] <upon entering the [Renaissance era]>", "[+1 Happiness] [in capital] <upon entering the [Industrial era]>", "[+1 Happiness] [in capital] <upon entering the [Modern]>" "[+1 Happiness] [in capital] <upon entering the [Modern era]>", "[+1 Happiness] [in capital] <upon entering the [Ancient era]>", "[+1 Happiness] [in capital] <upon entering the [Classical era]>", "[+1 Happiness] [in capital] <upon entering the [Medieval era]>", "[+1 Happiness] [in capital] <upon entering the [Renaissance era]>", "[+1 Happiness] [in capital] <upon entering the [Industrial era]>", "[+1 Happiness] [in capital] <upon entering the [Modern]>" "[+1 Happiness] [in capital] <upon entering the [Modern era]>", "[+1 Happiness] [in capital] <upon entering the [Information era]>", "[+1 Happiness] [in capital] <upon entering the [Atomic era]>", "[+1 Happiness] [in capital] <upon entering the [Information era]>", "[+1 Happiness] [in capital] <upon entering the [Future era]>"]
 		"cities": ["Hakurei Shrine"]
 	}
 ]
