@@ -18,7 +18,7 @@
 		"movement": 2,
 		"strength": 14,
 		"cost": 75,
-		"unique": ["[1] additional attacks per turn", "[-38]% Strength <when attacking>"]
+		"uniques": ["[1] additional attacks per turn", "[-38]% Strength <when attacking>"]
 		"requiredTech": "Iron Working",
 		"upgradesTo": "Longswordsman",
 		"obsoleteTech": "Gunpowder",
