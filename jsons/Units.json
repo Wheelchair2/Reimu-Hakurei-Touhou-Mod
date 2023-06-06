@@ -9,5 +9,21 @@
 		"cost": 40,
 		"obsoleteTech": "Iron Working",
 		"promotions": ["[Komainu Guardian] ability"]
-	}
+	},
+	{
+		"name": "Komainu Pair",
+		"unitType": "Sword",
+		"uniqueTo": "Hakurei Shrine",
+		"replaces": "Swordsman",
+		"movement": 2,
+		"strength": 14,
+		"cost": 75,
+		"unique": ["[1] additional attacks per turn", "[-38]% Strength <when attacking>"]
+		"requiredTech": "Iron Working",
+		"upgradesTo": "Longswordsman",
+		"obsoleteTech": "Gunpowder",
+		"hurryCostModifier": 20,
+		"promotions": ["[Komainu Guardian] ability"],
+		"attackSound": "metalhit"
+	},
 ]
