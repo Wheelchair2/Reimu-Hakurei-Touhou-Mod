@@ -17,7 +17,7 @@
 		"uniqueTo": "Hakurei Shrine",
 		"replaces": "Swordsman",
 		"movement": 2,
-		"strength": 14,
+		"strength": 15,
 		"cost": 75,
 		"uniques": ["[1] additional attacks per turn", "[-38]% Strength <when attacking>"]
 		"requiredTech": "Iron Working",
