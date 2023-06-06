@@ -3,7 +3,7 @@
 		"name": "Rituals",
 		"replaces": "Monument",
 		"uniqueTo": "Hakurei Shrine",
-		"culture": 4,
+		"culture": 5,
 		"cost": 30,
 		"hurryCostModifier": 40,
 		"maintenance": 0,
