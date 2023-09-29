@@ -9,7 +9,7 @@
 		"cost": 40,
 		"obsoleteTech": "Iron Working",
 		"upgradesTo": "Komainu Pair",
-		"promotions": ["[Komainu Guardian] ability"]
+		"promotions": ["[Shrine Guardian]"]
 	},
 	{
 		"name": "Komainu Pair",
@@ -24,7 +24,7 @@
 		"upgradesTo": "Longswordsman",
 		"obsoleteTech": "Gunpowder",
 		"hurryCostModifier": 20,
-		"promotions": ["[Komainu Guardian] ability"],
+		"promotions": ["[Shrine Guardian]"],
 		"attackSound": "metalhit"
 	},
 ]
