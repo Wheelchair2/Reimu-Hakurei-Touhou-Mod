@@ -18,7 +18,7 @@
 		"outerColor": [255,255,255],
 		"innerColor": [255,0,0],
 		"uniqueName": "Lineage Of Shrine Maidens",
-		"uniques": ["Free Great Person <upon entering a Golden Age>", "[+1] Movement <for units with [Komainu Guardian]> <in [Friendly Land] tiles> <during a Golden Age>"]
+		"uniques": ["Free Great Person <upon entering a Golden Age>", "[+1] Movement <for units with [Shrine Guardian]> <in [Friendly Land] tiles> <during a Golden Age>"]
 		"cities": ["Hakurei Shrine"]
 	}
 ]
